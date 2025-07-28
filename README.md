@@ -1,6 +1,6 @@
 # AdventureWorks---Bike-Store-Sales-Analysis-with-Power-BI
 
-# AdventureWorks - Bike Store Sales Analysis with Power BI (Personal Project)
+
 
 ![Executive Dashboard](https://github.com/najirh/Power_Bi_AdventureWorks_Data_Analysis/blob/main/Exec%20Dash%20Page%201.png)
 
